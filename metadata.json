@@ -1,0 +1,7 @@
+{
+  "name": "EcoVolt AI Guardian",
+  "description": "An AI-powered platform for renewable energy optimization and environmental monitoring, featuring real-time forecasting, pollution tracking, and satellite imagery analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
